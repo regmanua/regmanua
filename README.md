@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Oleksandr
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Angular/NestJS/ElectronJS
-- 💞️ I’m leisurely looking for Junior+ Frontend/Fullstack Position (Angular/NestJS).
+- 💞️ I’m leisurely looking for Junior Frontend/Fullstack Position (Angular/NestJS).
 - 📫 How to reach me: t.me/regmanua
 
 <!---
